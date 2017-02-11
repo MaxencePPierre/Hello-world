@@ -1,2 +1,4 @@
 # Hello-world
-First step with github
+
+This project concerns my first steps on github,
+See you soon guys.
