@@ -1,4 +1,3 @@
 # Hello-world
 
-This project concerns my first steps on github,
-See you soon guys.
+Bon je galere a comprendre je fais mes tests.
